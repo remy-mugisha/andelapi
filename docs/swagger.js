@@ -18,7 +18,7 @@ const options = {
         description: 'Development server',
       },
       {
-        url: 'http://localhost:8000',
+        url: 'https://remmyapi.onrender.com/',
         description: 'Production server',
       },
     ],
